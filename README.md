@@ -1,1 +1,1 @@
-- I'm currently learning Python, HTML and css.
+- I'm currently learning Python, HTML and CSS.
